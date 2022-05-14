@@ -13,7 +13,9 @@ Autor: Thania Simbaña Acero
 
 ## Planteamiento
 
-En el siguiente ensayo se analizarán dos casos relacionados con el tema a tratar en esta PEC, "La hibridación" y se llevará acabo empleando de las gafas de Manovich. Así pues, no solo se tratará de describir en que cosiste cada uno de estos híbridos de medios informáticos, sino también se pretende explicar por qué se consideran híbridos y no medios multimedia, ya que tal y como comenta Manovich estos son diferentes:
+En el siguiente ensayo se analizarán dos casos relacionados con el tema a tratar en esta PEC, "La hibridación" visto a través de las gafas de Manovich.
+
+No solo se tratará de describir en que cosiste cada uno de estos híbridos de medios informáticos, sino también se pretende explicar por qué se consideran híbridos y no medios multimedia, ya que tal y como comenta Manovich estos son diferentes:
 
 >*"En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro. [...]. Dicho de otra forma, cada elemento de un mensaje multimedia se abre en su propio visor (en los años dos mil los MMS de los teléfonos funcionaban así). Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para
 ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.(Manovich, L.)[^1]"*
@@ -23,7 +25,7 @@ Los casos son:
 - <a href="https://test-wallame-campaign-manager.youandemili.com/accountview/login?ReturnUrl=%2F"><i>Wallame</i> </a>
 ## Evernote + Post It
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Evernote_Icon.svg" width="300" ><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Evernote_Icon.svg" width="200" ><br>
   Foto by<a href="https://commons.wikimedia.org/wiki/File:Evernote_Icon.svg">  <i>Evernote</i></a>         
 </p>
 
@@ -37,10 +39,10 @@ La integración de otras herramientas dentro del programa, sin ser esta un simpl
 La fusión de Evernote con la inteligencia artificial permite hibridar diferentes tipos de datos en un mismo espacio, así pues, una de las funciones más características de esta aplicación es el poder escanear y digitalizar notas escritas a mano, facturas, pizarras, hojas o incluso tarjetas de visita, que una vez reconocidas crean una base de datos personal de contactos. 
 <p align="center">
   <img src="https://evernote.s3.amazonaws.com/support-assets/en/postits-four-on-wall-with-ios-white-hero.jpg" alt="https://evernote.s3.amazonaws.com/support-assets/en/postits-four-on-wall-with-ios-white-hero.jpg" width="300"><br>
-  Foto by<a href="https://commons.wikimedia.org/wiki/File:Evernote_Icon.svg">  <i>Evernote</i></a>         
+  <a href="https://help.evernote.com/hc/es/articles/209129077-Introducci%C3%B3n-a-las-Notas-de-Post-it-con-Evernote">  <i>Introducción a las Notas de Post-it con Evernote</i></a>         
 </p>
 
-Las herramientas que junto a Evernote hace todo esto posible son:
+Las herramientas que junto a Evernote hace todo esto posible son[^3]:
 - <a href="https://workspace.google.com/intl/es/products/calendar/">  <i>Google Calendar</i></a>: víncula la notas a los eventos de tu  calendario.
 - <a href="https://www.google.com/intl/es/gmail/about/">  <i>Gmail</i></a>: permite compartir tus notas vía email.
 - <a href="https://www.google.com/intl/es_es/drive/">  <i>Google Drive</i></a>: permite acceder a los archivos guardados en este apliación desde Evernote.
@@ -55,13 +57,23 @@ En definitiva, estos programas se fusionan para formar un nuevo medio híbrido d
 
 ## Wallame + Realidad Aumentada
 <p align="center">
-  <img src="https://blogs.upm.es/observatoriogate/wp-content/uploads/sites/13/2016/09/wallame.png" width="300" ><br>
+  <img src="https://blogs.upm.es/observatoriogate/wp-content/uploads/sites/13/2016/09/wallame.png" width="200" ><br>
   Foto by <a href="https://blogs.upm.es/observatoriogate/2016/10/04/wallame-la-realidad-aumentada-a-tu-lado/"><i>Alegría Blázquez</i> </a>
 </p>
 
+Wallame, la aplicación que a través de la RA[^4] y la geolocalización permite visualizar en un dispositivo móvil imágenes colocadas en muros o paredes anteriormente por otros usuarios. Con esta aplicación los usuarios pueden:
+> *"fotografiar lugares y añadirles  después imágenes, dibujos y mensajes que tomarán forma en realidad aumentada (combinando elementos reales y virtuales) cuando busquemos con nuestros dispositivos por los lugares en los que hemos realizado las fotos."* (Prada, E)[^5]
+<p align="center">
+  <img src="https://intef.es/wp-content/uploads/2019/08/800.jpg" alt="https://intef.es/wp-content/uploads/2019/08/800.jpg" width="500"><br>
+  Foto by <a href="https://intef.es/observatorio_tecno/wallame-jugar-al-escondite-en-realidad-aumentada/"><i>Esther Prada</i> </a>
+</p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Este sería otr0 ejemplo claro que Manovich vería como resultado de una hibridación entre algorítmos de diferentes programas, que combinan lenguajes anteriormente usados. 
+> *“Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones”* (Manovich, J. 2013)
 
+Este nuevo software es capaz de mezclar objetos y elementos del mundo real con objetos pertenecientes al mundo virtual con la ayuda tablets, webcams, móviles u otros dispositivos digitales. Así pues, el nuevo medio híbrido es el resultado del rescate de otros medios con el objetivo de mezclarlos y crea una versión mejorada.
+
+Desde mi punto de vista, y tras investigar acerca de la aplicación Wallame creo que es una perfecta combinación de diversos medios que permite interactuar simultáneamente entre dos mundos, algo meramente imposible hace unas décadas y que hoy en día, como vemos, es posible. Aquí entra en juego la capacidad que tienen los desarrolladores de combinar y diseñar nuevos sistemas con la intención de poner a disposición de los usuarios aplicaciones creativas, a través de las cuales puedan vivir una aventura diferente a las antes experimentadas.
 
 ### Referencias y Bibliografía
 
@@ -72,6 +84,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [^1]: Manovivh, L. (Lev)(2013). El software toma el mando.
 [^2]: ¿Por qué elegir Evernote? [en línea] https://evernote.com/intl/es/why-evernote
-
+[^3]: Saca más partido de tus aplicaciones con las integraciones de Evernote. [en línea] https://evernote.com/intl/es/integrations
+[^4]: Realidad Aumentada
+[^5]: Wallame: Jugar al escondite en realidad aumentada [en línea] https://intef.es/observatorio_tecno/wallame-jugar-al-escondite-en-realidad-aumentada/
 ----
 
