@@ -13,10 +13,14 @@ Autor: Thania Simbaña Acero
 
 ## Planteamiento
 
+En el siguiente ensayo se analizarán dos casos relacionados con el tema a tratar en esta PEC, "La hibridación" y se llevará acabo empleando de las gafas de Manovich. Así pues, no solo se tratará de describir en que cosiste cada uno de estos híbridos de medios informáticos, sino tambien se pretende explciar el porqué se considerán híbridos y no medios multimedia, ya que tal y como comenta Manovich estos son diferentes:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>*"En documentos y aplicaciones interactivas multimedia, los contenidos de cada medio aparecen uno junto otro. [...]. Dicho de otra forma, cada elemento de un mensaje multimedia se abre en su propio visor (en los años dos mil los MMS de los teléfonos funcionaban así). Por contra, en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para
+ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno.(Manovich, L.)[^1]"*
 
-
+Los casos son:
+- <a href="https://evernote.com/intl/es"><i>Evernote</i> </a>
+- <a href="https://test-wallame-campaign-manager.youandemili.com/accountview/login?ReturnUrl=%2F"><i>Wallame</i> </a>
 ## Evernote
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Evernote_Icon.svg" width="300" ><br>
@@ -45,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Recursos utilizados
 
-
+[^1]: Manovivh, L. (Lev)(2013). El software toma el mando.
 
 ----
 
