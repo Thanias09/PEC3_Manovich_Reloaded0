@@ -40,7 +40,7 @@ La fusión de Evernote con la inteligencia artificial permite hibridar diferente
   Foto by<a href="https://commons.wikimedia.org/wiki/File:Evernote_Icon.svg">  <i>Evernote</i></a>         
 </p>
 
-LAs herramientas que junto a Evernote hace todo esto posible son:
+Las herramientas que junto a Evernote hace todo esto posible son:
 - <a href="https://workspace.google.com/intl/es/products/calendar/">  <i>Google Calendar</i></a>: víncula la notas a los eventos de tu  calendario.
 - <a href="https://www.google.com/intl/es/gmail/about/">  <i>Gmail</i></a>: permite compartir tus notas vía email.
 - <a href="https://www.google.com/intl/es_es/drive/">  <i>Google Drive</i></a>: permite acceder a los archivos guardados en este apliación desde Evernote.
@@ -48,6 +48,9 @@ LAs herramientas que junto a Evernote hace todo esto posible son:
 - <a href="https://www.microsoft.com/es-es/microsoft-teams/log-in">  <i>Microsoft Teams</i></a>: comparte tu contenido para poder se utilizado en tiempo real.
 - <a href="https://www.salesforce.com/es/">  <i>Salesforce</i></a>: este sofware es el que permite escanear las tarjetas de visita y las transforma en tu base de datos (contactos).
 
+
+En definitiva, estos programas se fusionan para formar un nuevo medio híbrido donde:
+> *"confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos"*(Manocivh, J. 2013)
 
 
 ## Wallame + Realidad Aumentada
