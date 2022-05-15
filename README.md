@@ -61,32 +61,39 @@ En definitiva, estos programas se fusionan para formar un nuevo medio híbrido d
   Foto by <a href="https://blogs.upm.es/observatoriogate/2016/10/04/wallame-la-realidad-aumentada-a-tu-lado/"><i>Alegría Blázquez</i> </a>
 </p>
 
-Wallame, la aplicación que a través de la Realidad Aumentada (RA) y la geolocalización permite visualizar en un dispositivo móvil imágenes colocadas en muros o paredes anteriormente por otros usuarios. Con esta aplicación los usuarios pueden:
-> *"fotografiar lugares y añadirles  después imágenes, dibujos y mensajes que tomarán forma en realidad aumentada (combinando elementos reales y virtuales) cuando busquemos con nuestros dispositivos por los lugares en los que hemos realizado las fotos."* (Prada, E)[^5]
+Wallame, es la mezcla de la Realidad Aumentada (RA) y la geolocalización. Esta permite visualizar en un dispositivo móvil imágenes colocadas en muros o paredes anteriormente por otros usuarios. Como resultado los usuarios pueden:
+> *"fotografiar lugares y añadirles  después imágenes, dibujos y mensajes que tomarán forma en realidad aumentada (combinando elementos reales y virtuales) cuando busquemos con nuestros dispositivos por los lugares en los que hemos realizado las fotos."* (Prada, E)[^4]
 <p align="center">
   <img src="https://intef.es/wp-content/uploads/2019/08/800.jpg" alt="https://intef.es/wp-content/uploads/2019/08/800.jpg" width="500"><br>
   Foto by <a href="https://intef.es/observatorio_tecno/wallame-jugar-al-escondite-en-realidad-aumentada/"><i>Esther Prada</i> </a>
 </p>
-Así es cómo esta aplicación hace uso de la RA, la cual permite la interacción del usuario entre ambientes vituales y el mundo físico a través de una combinación de tecnologías.
+Como se ha mencionado, esta aplicación hace uso de la RA, que consiste en la interacción del usuario entre ambientes vituales y el mundo físico a través de una combinación de tecnologías.
 
 Nos encontramos, pues, ante otro ejemplo claro que Manovich vería como resultado de una hibridación perfecta entre algorítmos de diferentes programas, que combinan lenguajes anteriormente usados. 
 > *“Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones”* (Manovich, J. 2013)
 
-Este nuevo software es capaz de mezclar objetos y elementos (siendo en este caso, fotografías de esapcios reales)del mundo real con objetos pertenecientes al mundo virtual(fotografías editadas) con la ayuda tablets, webcams, móviles u otros dispositivos digitales l. Así pues, el nuevo medio híbrido es el resultado del rescate de otros medios con el objetivo de mezclarlos y crea una versión mejorada.
+Este nuevo software es capaz de mezclar objetos y elementos (siendo en este caso, fotografías de espacios reales)del mundo real con objetos pertenecientes al mundo virtual(fotografías editadas) con la ayuda tablets, webcams, móviles u otros dispositivos digitales l. Así pues, el nuevo medio híbrido es el resultado del rescate de otros medios con el objetivo de mezclarlos y crea una versión mejorada. Además, cabe mencionar el uso de la geolocalización, ya que la aplicación permite acceder a un mapa (usando nuestro GPS) desde donde estamos situados para luego mostrarnos aquellos lugares cercanos donde haya fotografías con mensajes guardadas por otros usuarios. 
 
-Desde mi punto de vista, y tras investigar acerca de la aplicación Wallame creo que es una perfecta combinación de diversos medios que permite interactuar simultáneamente entre dos mundos, algo meramente imposible hace unas décadas y que hoy en día, como vemos, es posible. Aquí entra en juego la capacidad que tienen los desarrolladores de combinar y diseñar nuevos sistemas con la intención de poner a disposición de los usuarios aplicaciones creativas, a través de las cuales puedan vivir una aventura diferente a las antes experimentadas.
+La búsqueda se realizará con la cámara incorporada en nuestros dispositivos digitales (móviles o tablets).
+<p align="center">
+<img src="https://i.blogs.es/b37f99/affix_20160108_120558/1366_2000.png" alt="https://i.blogs.es/b37f99/affix_20160108_120558/1366_2000.png" class="shrinkToFit transparent" width="350"><br>
+Foto by <a href="https://www.xatakandroid.com/aplicaciones-android/wallame-una-red-social-para-ocultar-imagenes-en-los-muros-de-las-ciudades"><i>Juan Carlos González</i></a>
+</p>
+
+Desde mi punto de vista, y tras investigar acerca de la aplicación Wallame creo que es una perfecta combinación de diversos medios que permite interactuar simultáneamente entre dos mundos, algo meramente imposible hace unas décadas y que hoy en día, como vemos, es toda una realidad. Cabe destacar la capacidad que tienen los desarrolladores de combinar y diseñar nuevos sistemas con la intención de poner a disposición de los usuarios aplicaciones creativas, a través de las cuales puedan vivir una aventura diferente a las antes experimentadas.
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
+* González, Juan Carlos(2016). Wallame, una red socialpara ocultar imágenes en los muros de las ciudades. [en línea]  https://www.xatakandroid.com/aplicaciones-android/wallame-una-red-social-para-ocultar-imagenes-en-los-muros-de-las-ciudades
+* Neosentec. [en línea]  https://www.xatakandroid.com/aplicaciones-android/wallame-una-red-social-para-ocultar-imagenes-en-los-muros-de-las-ciudades
+* Vázquez, Alegría (2016). Wallame, la Realidad Aumentada a tu lado. [en línea]  https://www.xatakandroid.com/aplicaciones-android/wallame-una-red-social-para-ocultar-imagenes-en-los-muros-de-las-ciudades
 ### Recursos utilizados
 
 [^1]: Manovivh, L. (Lev)(2013). El software toma el mando.
 [^2]: ¿Por qué elegir Evernote? [en línea] https://evernote.com/intl/es/why-evernote
 [^3]: Saca más partido de tus aplicaciones con las integraciones de Evernote. [en línea] https://evernote.com/intl/es/integrations
-[^4]: Realidad Aumentada
-[^5]: Wallame: Jugar al escondite en realidad aumentada [en línea] https://intef.es/observatorio_tecno/wallame-jugar-al-escondite-en-realidad-aumentada/
+[^4]: Wallame: Jugar al escondite en realidad aumentada [en línea] https://intef.es/observatorio_tecno/wallame-jugar-al-escondite-en-realidad-aumentada/
+
 ----
 
